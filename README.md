@@ -72,4 +72,4 @@ After a few seconds, the following text should appear on your command line: "Run
 
 Next, you should be directed to a screen that is titled "AlphaMail" and has a single button that says "Log In". Click this button, and you will be redirected to the Google sign-in interface page, where you will be able to select which of your email accounts you would like to analyze using AlphaMail. If prompted by the Google interface, make sure to allow our application to access your email account. 
 
-Now, you will need to wait 10-30 seconds, depending on the speed of your internet connection, so that our application can run. After that time, you will redirected to a page that displays graphics and statistics about your inbox. Enjoy!=
+Now, you will need to wait 10-30 seconds, depending on the speed of your internet connection, so that our application can run. After that time, you will redirected to a page that displays graphics and statistics about your inbox. Enjoy!
