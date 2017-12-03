@@ -1,15 +1,15 @@
-#AlphaMail: An Email Analysis Tool
+# AlphaMail: An Email Analysis Tool
 
 Created by Sandip Nirmel and Dhruv Mohnot of Harvard University
 
 Last Modified: December 3, 2017
 
 
-#Summary:
+# Summary:
 
 AlphaMail is an email analysis tool that allows users to learn some important metrics about their inboxes. With a simple, easy-to-use interface, users are only a couple of clicks away from a clean, one-page summary of their inbox. AlphaMail makes use of the Gmail API.
 
-#Getting Started:
+# Getting Started:
 
 To use AlphaMail, you will need to install several packages, if you do not already have them installed onto your local machine. Below, we provide the command-line prompts that you should use to install those packages. However, please do note that different machines require different versions of each command. We have delineated these different versions, to the best of our knowledge and based on our own experiences. If you find that the running the first version of the command results in an error, please try running the second version of the command. Additionally, please note that the order in which these installations are performed is very important.
 
@@ -60,7 +60,7 @@ export PYTHONPATH=/Library/Python/2.7/site-
 
 
 
-#Usage:
+# Usage:
 
 After completing the "Getting Started" steps listed above, you are ready to use the AlphaMail application.
 
